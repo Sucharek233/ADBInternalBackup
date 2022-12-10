@@ -2,6 +2,8 @@
 
 This program lets you backup your internal storage using ADB.
 
+NOTE: You might need drivers before use. You can download them [here](https://www.dropbox.com/s/yiie6tmyszjod5a/androidrivers.zip?dl=0). If you'd need a guide on how to install them you can find it [here](https://www.reddit.com/r/SuchareksGuides/comments/ugvphs/how_to_install_adb_and_fastboot_drivers/).
+
 ### Why did I make this program?
 I made it, because I didn't want to copy whole directories, and just look for what files I'm missing and let the program copy them. This saved me a lot of time while backing up my phone.
 
